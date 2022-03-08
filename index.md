@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+## title: "Welcome to Nuwaib's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I want you explore my trainingon github lab ...
+
+Here i will tell you everything you want to learn.
+
